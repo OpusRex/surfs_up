@@ -1,10 +1,13 @@
 # surfs_up
 ## Rainfall Graphs
 ![December Rain Graph](/DecemberRainTotals.png?raw=True)
+![December Rain Data](/DecemberRainData.png?raw=True)
+<p>
+![December Rain Stats](/DecemberRainStats.png?raw=True)
+
 ![June Rain Graph](/JuneRainTotals.png?raw=True)
 
-![December Rain Data](/DecemberRainData.png?raw=True)
-![December Rain Stats](/DecemberRainStats.png?raw=True)
+
 
 
 
